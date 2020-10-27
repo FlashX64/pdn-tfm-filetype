@@ -23,6 +23,6 @@ namespace TFMFileType
 
         public Version Version => typeof(TFMPluginSupportInfo).Assembly.GetName().Version;
 
-        public Uri WebsiteUri => new Uri(@"https://github.com/flashx64");
+        public Uri WebsiteUri => new Uri(@"https://github.com/FlashX64/pdn-tfm-filetype");
     }
 }
